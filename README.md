@@ -55,4 +55,4 @@ Professora de Matemática do ensino fundamnetal II
 
 ## 📝 Comentário da Professora  
 
->
+>Esse quiz ótimo para treinar e desenvolver habilidades de matemática basica, além de ser bonito estéticamente, no entanto deverá fazer a correção da pergunta 10.
