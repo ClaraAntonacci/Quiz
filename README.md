@@ -9,9 +9,9 @@ O quiz aborda conteúdos matemáticos trabalhados em sala de aula, promovendo re
 
 ## 👥 Integrantes do Grupo  
 
-- Clara Antonacci
-- Julia Novo
-- Pietra Fernandes
+- [Clara Andrzejewsky](https://github.com/ClaraAntonacci)
+- [Julia Novo](https://github.com/Julia-novo)  
+- [Pietra Fernandes](https://github.com/pie-L0pes)
 
 ---
 
